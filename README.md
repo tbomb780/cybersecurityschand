@@ -1,7 +1,7 @@
 # cybersecurityschand
 Portfolio projects
 
-A professional statement
+All professional certificate
 
 Conducting a security audit
 
@@ -16,5 +16,3 @@ Identifying vulnerabilities for a small business
 Documenting incidents with an incident handler’s journal 
 
 Importing and parsing a text file in a security-related scenario
-
-Creating a resume
