@@ -3,6 +3,8 @@ Portfolio projects
 
 All professional certificate
 
+Professional statement
+
 Conducting a security audit
 
 Analyzing network structure and security
